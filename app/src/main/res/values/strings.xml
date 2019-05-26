@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="todo_stuff">Enter your list</string>
+    <string name="save">save</string>
+</resources>
